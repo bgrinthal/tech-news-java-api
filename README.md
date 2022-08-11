@@ -168,11 +168,11 @@ NA
 [JQuery-url]: https://jquery.com 
 [Express.com]: https://img.shields.io/badge/Express-0769AD?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://expressjs.com/
-[Java.com]: https://img.shields.io/badge/Java-0769AD?style=for-the-badge&logo=express&logoColor=white
+[Java.com]: https://img.shields.io/badge/Java-0769AD?style=for-the-badge&logo=java&logoColor=white
 [Java-url]: https://www.java.com/en/
-[Spring.com]: https://img.shields.io/badge/Spring-0769AD?style=for-the-badge&logo=express&logoColor=white
+[Spring.com]: https://img.shields.io/badge/Spring-0769AD?style=for-the-badge&logo=spring&logoColor=white
 [Spring-url]: https://spring.io/projects/spring-boot
-[Thymeleaf.com]: https://img.shields.io/badge/Thymeleaf-0769AD?style=for-the-badge&logo=express&logoColor=white
+[Thymeleaf.com]: https://img.shields.io/badge/Thymeleaf-0769AD?style=for-the-badge&logo=thymeleaf&logoColor=white
 [Thymeleaf-url]: https://www.thymeleaf.org/
 
 
